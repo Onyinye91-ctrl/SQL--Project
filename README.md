@@ -18,14 +18,14 @@ database instead of String.
 1. Load the Covid_19 csv data into a table in a mysql Database. 
 2. Write suitable sql queries to analyze and generate insight from the data.
 Below are the questions you are to write SQL queries to find answers to:
-a. Retrieve the total number of records in the data you loaded to the database
-b. Retrieve the records for the following observation dates - 1/22/2020, 
-1/27/2020, 1/31/2020
+  a. Retrieve the total number of records in the data you loaded to the database
+  b. Retrieve the records for the following observation dates - 1/22/2020, 
+     1/27/2020, 1/31/2020
 3. Retrieve a summary of all the records. This should include the following 
 information for each country/region:
-* The total number of confirmed cases 
-* The total number of deaths
-* The total number of recoveries
+  * The total number of confirmed cases 
+  * The total number of deaths
+  * The total number of recoveries
 4. Retrieve the number of confirmed cases, deaths, and recoveries for Mainland 
 China.
 5. Retrieve information for the top 5 countries with the highest confirmed cases.
